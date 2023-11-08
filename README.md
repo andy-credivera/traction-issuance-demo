@@ -4,6 +4,8 @@ Demo page for testing with the Traction system.
 Version 1.0 created by [www.credivera.ca](https://www.credivera.ca)  
 Licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
+[![Demo Video](https://img.youtube.com/vi/OI1JIt91K8g/0.jpg)](https://youtu.be/OI1JIt91K8g)
+
  - [Set up Traction](#Traction)
  - [Run App](#App)
 
